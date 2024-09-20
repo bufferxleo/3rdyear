@@ -1,0 +1,42 @@
+DSP Lab Programs
+
+1.Write a program in python to read and write different types of Files(CSV, json, txt etc)
+
+2.Write a program in python to perform statistical analysis on given data set
+
+3.Write a program in python to manipulate, Aggregate and Analyze data using Numpy
+
+4.Write a program in python to handle and Analyze data using Pandas
+
+5.Working with vectors and matrices in python
+
+6.Working with matplotlib and seaborn packages in python 
+
+7.Writes a python program to get the number of observations, missing values and nan values from the given dataset
+
+8.Write a python program to add an indeed field, changing misleading data fields, Re-expressing categorical data as numerical data, standardizing numerical fields and identifying outliers for data preparation phase for bank marketing data set.
+
+9.Write a python program to implement a correlation
+
+10.Write a Python program to search the Street address, and name from a given location information using Nominatim API and GeoPy package. 
+
+11.Write a Python program to search the country name from a given state name using Nominatim API and GeoPy package.
+
+12.Writes a python program to get observations of each species from iris data and plot it using seaborn or matplotlib packages
+
+13.Writes a python program to create a join plot to describe individual distributions on the same plot between sepal length and Sepal width
+
+14.Writes a python program using seaborn to create a Kernal Density Estimate plot of petal_length versus petal width for setosa species of flower
+
+Write a python program using scikit-learn to split the iris dataset into 80% train data and 20% test data. Out of total 150 records, the training set will come 120 records and the test set contains 30 of those records. Print both datasets
+
+
+Write a Python program to split the iris dataset into its attribute(X) and labels (Y). The X variable contains the first four column.
+
+
+Write a python program using scikit-learn to convert species column in a numerical column of the iris data frame. To encode this data map convert each value to a number. e.g. Iris setosa:0, Iris-versicolor:1 and Iris-versicolor:2. Now print the iris data into 70% train data and 20 % test data. Out of total 150 records, the training set will contain 120 records and the test set contains 30 of those records. Print both datasets.
+
+
+Write a Python program to find the location address of a specified latitude and longitude using Nominatim API and Geopy package. 
+
+Write a Python function to get the city, state, and country names of a specified latitude and longitude using Nominatim API and Geopy packages
